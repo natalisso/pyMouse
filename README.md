@@ -1,4 +1,4 @@
 # pyproject
 projeto de mouse controlado pelo webcam para a disciplina de introdução à python.
-Arquivos mais importantes até o momento: DALE, reconhecimento, teste_Hough.
+Arquivos mais importantes até o momento: Principla, DALE, reconhecimento, teste_Hough.
 Utiliza o haarCascade para o reconhecimento facial e dos olhos.
